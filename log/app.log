@@ -4,3 +4,5 @@
 [INFO] 2021-09-21 06:49:19,436 class utilities.BaseClass launchURL - Please pass the correct url
 [INFO] 2021-09-21 06:50:29,572 class utilities.BaseClass init_driver - Launched Edge Browser
 [INFO] 2021-09-21 06:50:29,775 class utilities.BaseClass launchURL - Please pass the correct url
+[INFO] 2021-09-21 07:02:10,992 class utilities.BaseClass init_driver - Launched Edge Browser
+[INFO] 2021-09-21 07:02:11,257 class utilities.BaseClass launchURL - Please pass the correct url
