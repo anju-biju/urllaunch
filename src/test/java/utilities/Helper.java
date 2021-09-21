@@ -18,7 +18,7 @@ import java.util.Date;
 import java.util.Set;
 
 /**
- * Helper utility class or implementing all the general scenarios applicable to Service Now and VRA
+ * Helper utility class
  */
 public class Helper {
 

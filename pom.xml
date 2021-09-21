@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>HC_SIM_INT</artifactId>
+    <artifactId>urllaunch</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>HC_SIM_INT</name>
+    <name>urllaunch</name>
 
 
     <properties>
